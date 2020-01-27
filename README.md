@@ -181,3 +181,4 @@ abline(mod2, lty = 2, col = "blue")
 ##### Reporting Issues
 
 For reporting errors and issues related to this package and its functions, please open a [issue here](https://github.com/RetoSchmucki/rbms/issues)
+# new computer test
